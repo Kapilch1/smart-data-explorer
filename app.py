@@ -1,4 +1,4 @@
-# Create an Interactive Data Analytics Portal with Streamlit in 7 Steps
+
 
 # import libraries
 import pandas as pd
